@@ -1,6 +1,6 @@
 <div align="center">
     <img src="https://cdn1.iconfinder.com/data/icons/competitive-strategy-and-corporate-training/512/565_Bug_insect_spider_virus_web_cyber_spot_security-512.png" alt="logo" height="96">
-    <img src="https://pianosongdownload.com/wpimages/wp2752df2f_06.png" alt="logo" height="64">
+    <img src="https://pianosongdownload.com/wpimages/wp2752df2f_06.png" alt="logo" height="80">
 </div>
 
 # scrapy-pianosongdownload
