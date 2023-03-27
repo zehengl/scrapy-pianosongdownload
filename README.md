@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://pianosongdownload.com/wpimages/wp2752df2f_06.png" alt="logo" height="128">
+    <img src="https://pianosongdownload.com/wpimages/wp2752df2f_06.png" alt="logo" height="64">
 </div>
 
 # scrapy-pianosongdownload
