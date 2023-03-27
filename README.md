@@ -1,6 +1,5 @@
 <div align="center">
-    <img src="https://cdn1.iconfinder.com/data/icons/competitive-strategy-and-corporate-training/512/565_Bug_insect_spider_virus_web_cyber_spot_security-512.png" alt="logo" height="96">
-    <img src="https://pianosongdownload.com/wpimages/wp2752df2f_06.png" alt="logo" height="80">
+    <img src="https://pianosongdownload.com/wpimages/wp2752df2f_06.png" alt="logo" height="128">
 </div>
 
 # scrapy-pianosongdownload
@@ -25,8 +24,5 @@ A scrapy app to crawl sheet music from [pianosongdownload.com][1]
 ## Credits
 
 - [pianosongdownload.com][1]
-- [Logo][2] by [Flatart][3]
 
 [1]: https://pianosongdownload.com
-[2]: https://www.iconfinder.com/icons/4158580/bug_cyber_insect_security_spider_spot_virus_web_icon
-[3]: https://www.iconfinder.com/Flatart
