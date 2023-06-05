@@ -28,7 +28,14 @@ class PreStaffSpider(scrapy.Spider):
         yield from [scrapy.Request(url=url, callback=self.parse) for url in pieces]
 
         href = response.css(".OBJ-15").xpath("./@href").get()
-        # title = response.css(".C-13").xpath("./text()").get().strip()
+        if href:
+            url = urljoin(response.url, href)
+            yield PianosongdownloadItem(
+                file_urls=[url],
+                name=self.name,
+            )
+
+        href = response.css(".OBJ-17").xpath("./@href").get()
         if href:
             url = urljoin(response.url, href)
             yield PianosongdownloadItem(
